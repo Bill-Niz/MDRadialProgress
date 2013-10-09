@@ -30,7 +30,7 @@
 @property (assign, nonatomic) NSUInteger progressTotal;
 
 // The number of steps currently completed.
-@property (assign, nonatomic) NSUInteger progressCounter;
+@property (assign, nonatomic) float progressCounter;
 
 // Color of the completed steps.
 @property (strong, nonatomic) UIColor *completedColor;

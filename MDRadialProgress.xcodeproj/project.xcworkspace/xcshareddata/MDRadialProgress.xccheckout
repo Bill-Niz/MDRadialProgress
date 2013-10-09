@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A235585C-8C6D-4AE6-8A38-82C55EA0438F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MDRadialProgress</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7F3D338F-844F-40F1-941B-31CEAD85BD94</key>
+		<string>https://github.com/Bill-Niz/MDRadialProgress.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MDRadialProgress.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7F3D338F-844F-40F1-941B-31CEAD85BD94</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Bill-Niz/MDRadialProgress.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7F3D338F-844F-40F1-941B-31CEAD85BD94</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7F3D338F-844F-40F1-941B-31CEAD85BD94</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MDRadialProgressF</string>
+		</dict>
+	</array>
+</dict>
+</plist>
